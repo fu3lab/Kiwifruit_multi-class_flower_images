@@ -5,7 +5,7 @@ This file contains 355 original kiwifruit flower images taken from Meixian Kiwif
 
 
 # Original images
-The file 'original image' contains the 355 images collected by a Canon S110 camera, with image numbers from 000001 to 000355.
+The file 'original_image' contains the 355 images collected by a Canon S110 camera, with image numbers from 000001 to 000355.
 
 # Image rotation
 The file 'image_rot_90' contains the images augmentated by rotate, with a rotation angle of 90. Its image numbers from 000356 to 000710. The file 'image_rot_180' contains the images augmentated by rotate, with a rotation angle of 180. Its image numbers from 000711 to 001065. The file 'image_rot_270' contains the images augmentated by rotate, with a rotation angle of 270. Its image numbers from 001066 to 001420.
